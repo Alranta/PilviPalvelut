@@ -5,3 +5,4 @@ CI/CD Putkisto websovellukselle tärkein osa mielestäni on git eli versionhalli
 Continigous integrationissa voidaan myös käyttää esimerkiksi Jenkinsiä tai Travis CI, tai github pagesia. Github pages ja actions on myös CI työkalu.
 Nykyään suosittuja teknologioita ovat myös konttiteknologiat, jotka verrattuna entiseen vanhaan pull menetelmään käytetään websovelluksesta containeria, joka on käytännössä
 virtual machine, jossa ohjelmisto käyttäytyy kuten sen tekijän tietokoneella. Näin varmistetaan että websovellus toimii kaikilla laitteilla.
+Testausta voidaan suorittaa esimerkiksi robotframeworkilla, ja testausta voidaan suorittaa ohjelmistokoodissa yksikkötesteillä.
