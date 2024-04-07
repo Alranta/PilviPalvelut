@@ -1,2 +1,4 @@
 # This is the second week
 Github actionsilla voidaan automatisoida sivustojen ylläpitoa, muokkaamista ja testaamista. Github pages automaattisesti päivittyy ja hakee uusimman version mikä on repositoryyn tallennettu. Tärkeää myös on muistaa se että sivusto on online kokoajan, eikä vaadi sivuston alasajoa välissä versionvaihdossa ja versionhallinnassa.
+
+Toinen paragraafi
